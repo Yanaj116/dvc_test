@@ -1,0 +1,4 @@
+outs:
+- md5: 829910e072791e8f4a09fa4df721da9a
+  size: 525
+  path: dvc_df.txt
