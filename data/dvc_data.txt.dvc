@@ -1,0 +1,4 @@
+outs:
+- md5: f08cb2ffa8917436fb48263434480a8c
+  size: 29
+  path: dvc_data.txt
